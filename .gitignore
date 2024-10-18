@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+SEM-Fob.X\.generated_files\*
+/SEM-Fob.X/.generated_files
+SEM-Fob.X/mcc-manifest-autosave.yml
+SEM-Fob.X/mcc-manifest-generated-success.yml
